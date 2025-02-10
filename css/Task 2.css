@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+.login{
+margin: 20px auto;
+padding: 40px;
+width: 23%;
+background-color: rgba(251, 249, 249, 0.956);
+text-align:left;
+font-weight:bold;
+color: rgb(82, 82, 82);
+
+}
+.login input{
+    margin: 10px;
+    padding: 7px;
+    width:100%;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    color: #000000;
+}
+.login .log-bt{
+    width: 95%;
+    background-color: #28a745;                                          
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    margin: 15px;
+}
+textarea{
+        width: 105%;
+        height: 90px;
+        font-size: 16px;
+        margin-top: 7px;
+        border-radius: 5px;
+     }
+    
